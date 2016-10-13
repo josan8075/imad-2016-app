@@ -9,10 +9,8 @@
         </div>
         <br>
         <div class="center text-big bold">
-		Hi! I am JOTHISANKAR and this my first webapp.
-         <h2> this my new process</h2>
-	 this my new way to solve a problem
-      	</div>
+            Hi! I am JOTHISANKAR and this my first webapp.
+        </div>
         <script type="text/javascript" src="/ui/main.js">
         </script>
     </body>
